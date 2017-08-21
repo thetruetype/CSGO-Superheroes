@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/custom_player/starwars/darth_vader/R_ALL_02a_360_032"
+  	"$bumpmap" "models/player/custom_player/starwars/darth_vader/R_ALL_02a_360_032_n"
+
+	"$phong" 			"1"
+	"$phongexponent" 		"15"
+	"$phongboost"		"2"
+	"$phongfresnelranges"	"[.05 .1 .2]"
+}

@@ -1,0 +1,43 @@
+SuperHero Source Heroes:
+
+///Wolverine:
+ - Health Regeneration for 2-3 points a second.
+ - Lifesteal for 8-10 points or more per hit.
+ - Claws Model
+ 
+Spiderman:
+ - Climb Walls
+ - Disarm foes by aiming at them and clicking. (Drops the gun)
+ 
+Batman:
+ - 3 Primary Weapons
+ 
+Superman:
+ - 250 health & armor
+ - Wallhack for 3.5 seconds, weapons disable.
+ 
+Nightcrawler:
+ - Noclip for 5-6 seconds.
+ - Dies if still noclipped.
+ 
+///Punisher:
+ - Infinite Ammo
+ - No Reload
+ 
+///Flash:
+ - Increased Speed
+ 
+Iron Man:
+ - Jetpack.
+ 
+Loki:
+ - Swap Places.
+ 
+Zeus:
+ - Thunder Bolt an area.
+ 
+///Manhunter:
+ - Invisible while standing still, visible when fire.
+ 
+Shape Shifter:
+ - Equip enemy team player model.

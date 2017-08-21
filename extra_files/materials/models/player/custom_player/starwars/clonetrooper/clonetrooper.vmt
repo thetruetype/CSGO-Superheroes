@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/custom_player/starwars/clonetrooper/clonetrooper"
+  	"$bumpmap" "models/player/custom_player/starwars/clonetrooper/clonetrooper_n"
+
+	"$phong" 			"1"
+	"$phongexponent" 		"15"
+	"$phongboost"		"2"
+	"$phongfresnelranges"	"[.05 .1 .2]"
+}

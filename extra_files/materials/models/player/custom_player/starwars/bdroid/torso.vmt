@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/custom_player/starwars/bdroid/torso"
+	"$bumpmap" "models/player/custom_player/starwars/bdroid/torso_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.2 0.2 0.2 ]" 
+	"$model" 1
+}

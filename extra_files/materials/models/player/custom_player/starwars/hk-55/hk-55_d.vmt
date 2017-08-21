@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/custom_player/starwars/hk-55/hk-55_d"
+  	"$bumpmap" "models/player/custom_player/starwars/hk-55/hk-55_n"
+
+	"$phongexponenttexture"	"models/player/custom_player/starwars/hk-55/hk-55_s"
+
+	"$normalmapalphaenvmapmask" "1"
+	"$model" "1"
+	"$phong"	"1"
+	"$phongexponent"	"24"
+	"$phongalbedotint"	"1"
+	"$phongboost"	".7"
+	"$phongfresnelranges"	"[5 7 8]"
+  	 "$lightwarptexture" 	"models/player/custom_player/starwars/hk-55/hk-55_l"
+}
